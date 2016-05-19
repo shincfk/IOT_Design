@@ -1,0 +1,9 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/gmszone/Home-Anywhere
+[submodule "rest"]
+	path = rest
+	url = https://github.com/gmszone/iot-rest.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/gmszone/iot-dashboard
