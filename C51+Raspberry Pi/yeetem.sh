@@ -1,0 +1,2 @@
+sudo python /home/pi/python/apple.py
+curl --request POST --data-binary @"/home/pi/python/mytest/tem_data.txt" --header "U-ApiKey:your key"  http://api.yeelink.net/v1.1/device/设备号/sensor/传感器号/datapoints
