@@ -7,4 +7,4 @@
 当然也可以自己做webserve，我会上传我当时的学习资料.
 2016-5-20
 
-* C52本地终端，Raspberry Pi中继.构建见Slide.
+* C52本地终端，Raspberry Pi中，构建见Slide。采集数据接入Yeelink上：http://www.yeelink.net/devices/349652/#
